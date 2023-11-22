@@ -1,1 +1,1 @@
-# ProfessionalCertifications
+Professional Certification projects and assignments
